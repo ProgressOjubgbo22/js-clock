@@ -1,0 +1,22 @@
+.clock-container {
+  width: 300px;
+  margin: 50px auto;
+  padding: 20px;
+  background: #000; /* iPhone dark mode style */
+  border-radius: 20px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+  text-align: center;
+  color: #fff;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}
+
+#time {
+  font-size: 48px;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+#date {
+  font-size: 20px;
+  opacity: 0.7;
+}
